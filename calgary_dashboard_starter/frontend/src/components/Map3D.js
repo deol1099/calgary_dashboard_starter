@@ -1,1 +1,0 @@
-// Three.js map rendering
